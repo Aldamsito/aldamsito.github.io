@@ -46,6 +46,9 @@ html {
   html {
     font-size: 55%;
   }
+  
+  .welcome-section{
+      background-size: 400vw auto;
 }
 
 /* Base styles */
@@ -157,6 +160,7 @@ img {
 }
 
 .welcome-content > p {
+    text-align: center;
   font-size: 3rem;
   font-weight: bold;
   font-style: italic;
